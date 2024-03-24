@@ -88,15 +88,21 @@
     line-height: 1.6;
     font-size: 15px;
     color: #5d5d5d;
+    margin-bottom: 20px;
   }
+  .landing-page .content .info a,
   .landing-page .content .info button {
-    border: 0;
-    border-radius: 20px;
-    padding: 12px 30px;
-    margin-top: 30px;
-    cursor: pointer;
-    color: #FFF;
-    background-color: #CC0909;
+      border: 0;
+      border-radius: 20px;
+      padding: 12px 30px;
+      margin-top: -30px;
+      cursor: pointer;
+      color: #FFF;
+      background-color: #CC0909;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 15px;
+      margin-bottom: -20px;
   }
   .landing-page .content .image img {
     max-width: 250%;
