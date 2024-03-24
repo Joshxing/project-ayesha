@@ -139,14 +139,13 @@
   }
 
   .column {
-    width: 25%;
-    padding: 0 2%;
+    width: 23%;
+    padding: 0 1%;
     display: inline-block;
     vertical-align: top;
-    margin: 0 auto; 
-    margin-left: 90px;
+    margin-left: 1%;
     margin-top: -10px;
-    margin-bottom: 90px;
+    margin-bottom: -20px;
 }
 
 .row { margin: 0; }
