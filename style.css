@@ -139,14 +139,13 @@
   }
 
   .column {
-    width: 25%;
-    padding: 0 2%;
+    width: 23%; /* Adjusted width to accommodate closer spacing */
+    padding: 0 1%; /* Adjusted padding for closer spacing */
     display: inline-block;
     vertical-align: top;
-    margin: 0 auto; 
-    margin-left: 90px;
-    margin-top: -190px;
-    margin-bottom: 90px;
+    margin-left: 1%; /* Adjusted left margin for closer spacing */
+    margin-top: -10px;
+    margin-bottom: -20px;
 }
 
 .row { margin: 0; }
